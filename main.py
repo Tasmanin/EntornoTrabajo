@@ -16,3 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 '''Hola Nazaret''' '''Hol Juanma'''
+
+
+print("Hola nazaret , ¿te gustan los zumos de mango ?")
