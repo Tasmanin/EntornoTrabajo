@@ -19,3 +19,5 @@ if __name__ == '__main__':
 
 
 print("Hola nazaret , ¿te gustan los zumos de mango ?")
+
+print("Lo que quiero saber es...la pizza ¿con piña o sin ella?☼→♀♂")
